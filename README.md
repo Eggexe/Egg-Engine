@@ -13,12 +13,17 @@ The engine fits around the game, the aim is to have /Game/ use API bits from /En
 ## Engine folders, what do they mean?
 You can also look at the "what_is_this.txt" file for each folder too but heres a simple breakdown
 
-Engine - Houses the engine\n
-CONFIG - Some engine config you might wanna use at some point\n
-Core   - Handles game loop and like physics and stuff\n
-Input  - Handles input and that movement\n
-Maths  - Cool maths stuff you can use\n
-Render - Handles rendering eventually\n
+Engine - Houses the engine
+
+CONFIG - Some engine config you might wanna use at some point
+
+Core   - Handles game loop and like physics and stuff
+
+Input  - Handles input and that movement
+
+Maths  - Cool maths stuff you can use
+
+Render - Handles rendering eventually
 
 All these mixtures of C# and prayers eventually merge to form /Engine/ to work with /Game/ but wait! What is /Game/?
 
