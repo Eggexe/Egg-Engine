@@ -41,3 +41,5 @@ If you find a problem, cry abt it, make an issue thingy and yeah
 I promised myself I'd finish this cuz it makes me look cool n shit
 
 :D
+
+Oh yeah about the MIT license, do what you want with this engine just gimme creds pls thx
