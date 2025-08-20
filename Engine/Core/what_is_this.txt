@@ -1,0 +1,1 @@
+Core file holds most of the important stuff like the loop n stuff, got it?
