@@ -1,1 +1,3 @@
 Game folder is uhh, the game folder? Look I didnt make the name, I just work here.
+
+EntryPoint.cs is used to load stuff I put in /Engine/Render/BaseWindow.cs, which is the base window for the game
