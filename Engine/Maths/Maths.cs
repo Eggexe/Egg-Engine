@@ -43,7 +43,7 @@ namespace Engine.Maths
                 throw new ArgumentException("Min must be less than Max");
             }
 
-            for (int i = 0, step == i, i++)
+            for (int i = 0, step == i, i++) ;
             {
                 // TODO: Implement the sliding logic here when the object is defined
             }
